@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Notflix: Error 429</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,900" rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="/css/main.css"/>
+</head>
+
+<body onload="overlay()">
+<div id="notfound">
+    <div class="notfound">
+        <div class="notfound-404">
+            <h1>429</h1>
+        </div>
+        <h2>Error - 429 Too Many Requests</h2>
+        <p>An error has occured while handling this request.</p>
+        <code>Notflix &copy;2020</code>
+    </div>
+</div>
+<div id="overlay">
+    <div class="lds-ripple"><div></div><div></div></div>
+</div>
+<script>
+    function overlay(){
+        document.getElementById("overlay").style.display = "block";
+    }
+</script>
+</body>
+</html>

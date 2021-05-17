@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Notflix - VideoPlayer</title>
+    <!--Google Font-->
+    <link rel="stylesheet" href='http://fonts.googleapis.com/css?family=Dosis:400,700,500|Nunito:300,400,600' />
+    <!-- Mobile specific meta -->
+    <meta name=viewport content="width=device-width, initial-scale=1">
+    <meta name="format-detection" content="telephone-no">
+
+    <!-- CSS files -->
+    <link rel="stylesheet" href="css/plugins.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/plyr.css"/>
+</head>
+<body style="background-color: black;">
+<video th:poster="'https://github.com/FEND16/movie-json-data/blob/master/img/' + ${video.getImageSrc()} + '?raw=true'" id="player" playsinline controls th:title="${video.getTitle()}" width="100%" height="100%">
+    <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4" type="video/mp4" />
+    <a href="#" class="btn">Go back</a>
+</video>
+</body>
+</html>

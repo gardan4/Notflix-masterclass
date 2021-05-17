@@ -1,0 +1,10 @@
+image: openjdk:latest
+pipelines:
+  default:
+    - step:
+        script:
+          - docker login -u nickrau -p Sedina101!
+          - docker build -f Dockerfile -t nickrau/notflix:latest .
+          - docker push nickrau/notflix:latest
+options:
+  docker: true

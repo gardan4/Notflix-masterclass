@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="/css/card.css" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="topnav">
+  <a class="active" href="/">Home</a>
+  <a href="/restexample.html">Rest Frontend</a>
+  <form>
+  	<input type="text" placeholder="Search.." name="query" />
+  </form>
+</div>
+
+<div class="container">
+  <div class="row">
+    
+	<div class="col-sm-4" th:each="video : ${videoList}">
+		<div class="card card-default">
+		  <a th:href="${'/template/video/'+video.id}" class="card-link">
+		    <span class="card-img">
+		      <img th:src="${'https://github.com/FEND16/movie-json-data/blob/master/img/'+video.imageSrc+'?raw=true'}" class="img-responsive">
+		    </span>
+		    <span class="card-body">
+		      <span class="h3 heading" th:text="${video.title}"></span>
+		      <b th:text="${video.year}"></b>
+		    </span>
+		  </a>
+		</div>     
+	</div>
+    
+  </div>
+</div>
+
+</body>
+</html>

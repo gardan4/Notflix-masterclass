@@ -1,0 +1,251 @@
+movieId;year;genres[,];actors[,];contentRating;duration;imdbRating
+13fc8521-a333-4185-98c5-7d69814f234a;1994;Crime,Drama;Tim Robbins,Morgan Freeman,Bob Gunton;15;PT142M;9.3
+7daa1731-38b3-4514-8de8-114230d28ad6;1972;Crime,Drama;Marlon Brando,Al Pacino,James Caan;15;PT175M;9.2
+d774b2c4-49be-4561-bcd2-ddcec600601e;1974;Crime,Drama;Al Pacino,Robert De Niro,Robert Duvall;15;PT202M;9
+18faaa4a-f1c5-4073-90eb-51cfebeb6474;2008;Action,Crime,Drama;Christian Bale,Heath Ledger,Aaron Eckhart;15;PT152M;9
+ccc1e803-86ed-42a8-a9a1-7568103ccdad;1957;Crime,Drama;Henry Fonda,Lee J. Cobb,Martin Balsam;15;PT96M;8.9
+bd3c5794-f641-491b-92c3-813ef2d62a65;1993;Biography,Drama,History;Liam Neeson,Ralph Fiennes,Ben Kingsley;15;PT195M;8.9
+41b89498-ed83-4263-8e40-1557e04aa748;1994;Crime,Drama;John Travolta,Uma Thurman,Samuel L. Jackson;15;PT154M;8.9
+a75df4d0-710c-4777-a229-697e8abb416c;2003;Adventure,Drama,Fantasy;Elijah Wood,Viggo Mortensen,Ian McKellen;11;PT201M;8.9
+6311014b-d89f-483b-89d7-a050eedd3edf;1966;Western;Clint Eastwood,Eli Wallach,Lee Van Cleef;;PT161M;8.9
+01faef14-a7b9-4376-baf5-cdcd428d2927;1999;Drama;Brad Pitt,Edward Norton,Meat Loaf;15;PT139M;8.8
+9d1df331-30c3-4662-89f9-39dbb23f8cec;2001;Adventure,Drama,Fantasy;Elijah Wood,Ian McKellen,Orlando Bloom;11;PT178M;8.8
+73f867ff-579b-4b29-a6f3-e80f93729ec1;1980;Action,Adventure,Fantasy;Mark Hamill,Harrison Ford,Carrie Fisher;15;PT124M;8.8
+d9d44d06-72e5-4119-b217-f5622dd2a7a1;1994;Comedy,Drama,Romance;Tom Hanks,Robin Wright,Gary Sinise;11;PT142M;8.8
+f021bcda-04ae-4dad-b44a-864b646d1025;2010;Action,Adventure,Sci-Fi;Leonardo DiCaprio,Joseph Gordon-Levitt,Ellen Page;15;PT148M;8.8
+16d726f5-b9a8-4391-aaae-bc4ec1ce4b24;2002;Adventure,Drama,Fantasy;Elijah Wood,Ian McKellen,Viggo Mortensen;11;PT179M;8.7
+ab4c00f2-841a-4abe-9f22-f23a28dce448;1975;Drama;Jack Nicholson,Louise Fletcher,Michael Berryman;15;PT133M;8.7
+083876e3-0218-4833-9221-b8a982823d78;1990;Biography,Crime,Drama;Robert De Niro,Ray Liotta,Joe Pesci;15;PT146M;8.7
+7a482893-4919-4877-af4f-858f82da801f;1999;Action,Sci-Fi;Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss;15;PT136M;8.7
+5883d596-8b11-4bd5-a3fd-a3e801e4c287;1954;Adventure,Drama;Toshirô Mifune,Takashi Shimura,Keiko Tsushima;15;PT207M;8.7
+bf29aa17-73f8-4631-89cf-a063c22da1fa;1977;Action,Adventure,Fantasy;Mark Hamill,Harrison Ford,Carrie Fisher;11;PT121M;8.7
+8c2658e6-d293-49e5-9464-5d1bcf4202bf;2002;Crime,Drama;Alexandre Rodrigues,Matheus Nachtergaele,Leandro Firmino;15;PT130M;8.7
+b400e4ff-5a9b-4427-aaa9-9517ccf2d9c2;1995;Crime,Drama,Mystery;Morgan Freeman,Brad Pitt,Kevin Spacey;15;PT127M;8.6
+81d83bc0-12af-4f17-9668-a78ea6649b62;1991;Crime,Drama,Thriller;Jodie Foster,Anthony Hopkins,Lawrence A. Bonney;15;PT118M;8.6
+8a441b71-5cf7-470e-982e-619f53de8d5d;1946;Drama,Family,Fantasy;James Stewart,Donna Reed,Lionel Barrymore;15;PT130M;8.6
+a50efa54-4ed5-4ce3-aeb1-44fba188863c;1995;Crime,Drama,Mystery;Kevin Spacey,Gabriel Byrne,Chazz Palminteri;15;PT106M;8.6
+de8f2887-dfcf-498c-9f59-8c83a854743e;1997;Comedy,Drama,War;Roberto Benigni,Nicoletta Braschi,Giorgio Cantarini;11;PT116M;8.6
+4f52cf08-cec8-4b32-9b2d-5fb321a6525b;1994;Crime,Drama,Thriller;Jean Reno,Gary Oldman,Natalie Portman;15;PT110M;8.6
+13e8285c-bc8e-4ac3-881d-8be3c330a7b2;2001;Animation,Adventure,Family;Daveigh Chase,Suzanne Pleshette,Miyu Irino;7;PT125M;8.6
+279b7d22-d822-41b7-889d-2bfe7128c8ae;1998;Drama,War;Tom Hanks,Matt Damon,Tom Sizemore;15;PT169M;8.6
+a2831d11-5901-4a1e-9a62-b2876fed68d2;1968;Western;Henry Fonda,Charles Bronson,Claudia Cardinale;15;PT175M;8.6
+5a06719c-c945-458d-87c5-8be6a70e9944;1998;Crime,Drama;Edward Norton,Edward Furlong,Beverly D'Angelo;15;PT119M;8.6
+3c48ef9e-25e6-457e-b600-e52c6c2bbd1d;2014;Adventure,Drama,Sci-Fi;Matthew McConaughey,Anne Hathaway,Jessica Chastain;11;PT169M;8.6
+ec1867e9-4561-4d0c-b185-50f902bafb3f;1942;Drama,Romance,War;Humphrey Bogart,Ingrid Bergman,Paul Henreid;PG;PT102M;8.6
+e2e64ac8-83ad-492f-8d15-464a35167041;1960;Horror,Mystery,Thriller;Anthony Perkins,Janet Leigh,Vera Miles;;PT109M;8.5
+21305e69-8f44-4cda-b0aa-fded4acd1567;1931;Comedy,Drama,Romance;Charles Chaplin,Virginia Cherrill,Florence Lee;Btl;PT87M;8.6
+20be7c6c-98d3-4342-944d-3749d2653704;1999;Crime,Drama,Fantasy;Tom Hanks,Michael Clarke Duncan,David Morse;15;PT189M;8.5
+bac92883-2f7b-4d46-8728-b70d33d85db7;2011;Biography,Comedy,Drama;François Cluzet,Omar Sy,Anne Le Ny;7;PT112M;8.6
+10e7e466-d58a-4aca-8440-4efc488f457c;1936;Comedy,Drama,Family;Charles Chaplin,Paulette Goddard,Henry Bergman;Btl;PT87M;8.5
+c26b6989-b3dd-4c8e-885f-2997cac2cc18;1981;Action,Adventure;Harrison Ford,Karen Allen,Paul Freeman;PG;PT115M;8.5
+a3b7c810-1bd2-4308-9898-a3fd8fbf86c0;1954;Mystery,Thriller;James Stewart,Grace Kelly,Wendell Corey;15;PT112M;8.5
+b421c844-c107-412c-9308-6ff61c7bcf34;2002;Biography,Drama,War;Adrien Brody,Thomas Kretschmann,Frank Finlay;15;PT150M;8.5
+13d5cbe0-eeee-443b-9323-cea57a5aa310;2006;Crime,Drama,Thriller;Leonardo DiCaprio,Matt Damon,Jack Nicholson;15;PT151M;8.5
+e8001695-b554-4630-a6e2-25ba94ad49c1;1991;Action,Sci-Fi,Thriller;Arnold Schwarzenegger,Linda Hamilton,Edward Furlong;15;PT137M;8.5
+793c6168-0e1e-4ff5-82bd-1cf38665e358;1985;Adventure,Comedy,Sci-Fi;Michael J. Fox,Christopher Lloyd,Lea Thompson;11;PT116M;8.5
+6073893a-dc6a-4ae6-a6fa-0db42da2e1de;2014;Drama,Music;Miles Teller,J.K. Simmons,Melissa Benoist;15;PT107M;8.5
+a54806df-8210-4dcf-9285-e92ec2f7bde3;2000;Action,Adventure,Drama;Russell Crowe,Joaquin Phoenix,Connie Nielsen;15;PT155M;8.5
+87003583-c2a4-441d-96ec-311a111b08e2;2000;Mystery,Thriller;Guy Pearce,Carrie-Anne Moss,Joe Pantoliano;15;PT113M;8.5
+24d9ae2e-443c-4436-8a68-5239cf447804;1979;Drama,War;Martin Sheen,Marlon Brando,Robert Duvall;15;PT153M;8.5
+4b1e5182-6f63-48e3-ae20-eab85067f4ab;2006;Drama,Mystery,Sci-Fi;Christian Bale,Hugh Jackman,Scarlett Johansson;11;PT130M;8.5
+b9561197-cc08-4f27-9df6-c2e42863297a;1994;Animation,Adventure,Drama;Matthew Broderick,Jeremy Irons,James Earl Jones;7;PT88M;8.5
+db96d1a5-f185-496b-9184-ee1823839a85;1979;Horror,Sci-Fi;Sigourney Weaver,Tom Skerritt,John Hurt;15;PT117M;8.5
+e88a80c2-0369-461b-82a3-59fb288edc02;1964;Comedy;Peter Sellers,George C. Scott,Sterling Hayden;11;PT95M;8.5
+079a0c63-cca8-45b4-94e0-8339a7a7221e;1950;Drama,Film-Noir;William Holden,Gloria Swanson,Erich von Stroheim;15;PT110M;8.5
+6c165312-5d8c-4f25-b220-46731732b423;1940;Comedy,Drama,War;Charles Chaplin,Paulette Goddard,Jack Oakie;;PT125M;8.5
+3ee43719-e3e2-4fee-98d8-6f0cdd8c7551;1988;Drama;Philippe Noiret,Enzo Cannavale,Antonella Attili;11;PT155M;8.5
+12892913-7ca2-4593-8575-e37b666ca2d5;2006;Drama,Thriller;Ulrich Mühe,Martina Gedeck,Sebastian Koch;7;PT137M;8.5
+9835afbc-34bd-4cc0-9fb5-291d0d3636bb;1988;Animation,Drama,War;Tsutomu Tatsumi,Ayano Shiraishi,Akemi Yamaguchi;11;PT89M;8.5
+977ecf50-a4f8-4c00-a735-054839acc4b7;1957;Drama,War;Kirk Douglas,Ralph Meeker,Adolphe Menjou;15;PT88M;8.5
+3ef4ac7f-e182-4236-91bc-dcbad8bb7535;2012;Drama,Western;Jamie Foxx,Christoph Waltz,Leonardo DiCaprio;15;PT165M;8.4
+d08ad203-1ae0-43fa-9c9b-6dc0ae0e9456;1980;Drama,Horror;Jack Nicholson,Shelley Duvall,Danny Lloyd;15;PT146M;8.4
+b683d3b7-2761-4947-87a3-b02f79279b74;2016;Comedy,Drama,Musical;Ryan Gosling,Emma Stone,Rosemarie DeWitt;Btl;PT128M;8.5
+52d8145a-f1a7-4528-9f12-2afe5cc4d4c6;2008;Animation,Adventure,Family;Ben Burtt,Elissa Knight,Jeff Garlin;Btl;PT98M;8.4
+c632f16f-3faa-4fd4-8562-5d642976eddb;1999;Drama,Romance;Kevin Spacey,Annette Bening,Thora Birch;15;PT122M;8.4
+32d2489f-46de-48c7-a3f1-d3848e05eec9;2012;Action,Thriller;Christian Bale,Tom Hardy,Anne Hathaway;15;PT164M;8.5
+2e5567d5-cdb4-42d6-ae27-ae0e9342b45b;1997;Animation,Adventure,Fantasy;Yôji Matsuda,Yuriko Ishida,Yûko Tanaka;11;PT134M;8.4
+bae66a29-add9-4afb-97b8-1b0feabd60c4;1986;Action,Adventure,Sci-Fi;Sigourney Weaver,Michael Biehn,Carrie Henn;15;PT137M;8.4
+0d30e5f2-3c91-43bd-8c49-a233696e5aaf;2003;Drama,Mystery,Thriller;Min-sik Choi,Ji-tae Yu,Hye-jeong Kang;15;PT120M;8.4
+0bdb211d-ff20-42ce-ab0c-411bc169c254;1984;Crime,Drama;Robert De Niro,James Woods,Elizabeth McGovern;15;PT229M;8.4
+9cb95dcf-e797-4cfa-839e-4c55f2f8c33f;1941;Drama,Mystery;Orson Welles,Joseph Cotten,Dorothy Comingore;15;PT119M;8.4
+e6e85ff6-65c2-4aa9-9266-a45bd913bb6a;1981;Adventure,Drama,Thriller;Jürgen Prochnow,Herbert Grönemeyer,Klaus Wennemann;15;PT149M;8.4
+ef0970d6-0b26-4cbb-abd2-4340a7d33b80;1957;Crime,Drama,Mystery;Tyrone Power,Marlene Dietrich,Charles Laughton;15;PT116M;8.4
+2dc654c5-4569-4103-8d86-f7b035e80770;1959;Action,Adventure,Mystery;Cary Grant,Eva Marie Saint,James Mason;15;PT136M;8.4
+1325ce97-53d6-4c61-8514-b18182388902;1958;Mystery,Romance,Thriller;James Stewart,Kim Novak,Barbara Bel Geddes;15;PT128M;8.4
+fad3f0fb-53ed-4848-ae43-a294c56e313d;1983;Action,Adventure,Fantasy;Mark Hamill,Harrison Ford,Carrie Fisher;11;PT131M;8.4
+759a6efa-b55a-4906-bcad-369054c60521;1992;Crime,Drama,Thriller;Harvey Keitel,Tim Roth,Michael Madsen;15;PT99M;8.4
+636360e1-3bc2-4ac0-8f38-c7e91ea7117f;1931;Crime,Drama,Mystery;Peter Lorre,Ellen Widmann,Inge Landgut;15;PT117M;8.4
+1e38a908-c3f5-4d53-9eef-46ac6d71bfb8;1995;Biography,Drama,History;Mel Gibson,Sophie Marceau,Patrick McGoohan;15;PT178M;8.4
+5c9e003c-e6b4-431e-9c4f-db9b71bd5ad4;2000;Drama;Ellen Burstyn,Jared Leto,Jennifer Connelly;15;PT102M;8.4
+345d7399-883a-476c-bc4e-2f4737fe4e6e;2001;Comedy,Romance;Audrey Tautou,Mathieu Kassovitz,Rufus;7;PT122M;8.4
+36e1dcf8-1a02-450f-9b31-22fc7b9f5b32;1971;Crime,Drama,Sci-Fi;Malcolm McDowell,Patrick Magee,Michael Bates;15;PT136M;8.3
+40e543d5-1f53-47a6-941d-73c4a682a800;1976;Crime,Drama;Robert De Niro,Jodie Foster,Cybill Shepherd;15;PT113M;8.3
+73b08741-af34-4ed4-9ce7-6269395677d7;2007;Drama,Family,Music;Darsheel Safary,Aamir Khan,Tanay Chheda;PG;PT165M;8.5
+39b8b307-9e89-4438-aca7-f41ee5e0ff36;1962;Adventure,Biography,Drama;Peter O'Toole,Alec Guinness,Anthony Quinn;15;PT216M;8.3
+3791b397-053b-4d67-81d1-af66b32ce53b;1944;Crime,Drama,Film-Noir;Fred MacMurray,Barbara Stanwyck,Edward G. Robinson;15;PT107M;8.4
+a8509880-7feb-4cb0-b36c-42a630006480;2004;Drama,Romance,Sci-Fi;Jim Carrey,Kate Winslet,Tom Wilkinson;11;PT108M;8.3
+39d768f7-842f-42b1-a67d-c7d316e91d26;1962;Crime,Drama;Gregory Peck,John Megna,Frank Overton;15;PT129M;8.3
+9ae7480f-14d8-4164-be87-fe88141d27ca;1984;Biography,Drama,History;F. Murray Abraham,Tom Hulce,Elizabeth Berridge;11;PT160M;8.3
+4e9fbf00-34a1-4efc-a501-f488a6ca6af0;2010;Animation,Adventure,Comedy;Tom Hanks,Tim Allen,Joan Cusack;7;PT103M;8.3
+b9ab0e9d-6433-4dbd-8ab4-3aa4f1d41f3e;1987;Drama,War;Matthew Modine,R. Lee Ermey,Vincent D'Onofrio;15;PT116M;8.3
+8c823615-e2e9-41f3-9ebe-e8c7f5b60475;2016;Action,Biography,Drama;Aamir Khan,Sakshi Tanwar,Fatima Sana Shaikh;;PT161M;8.9
+57d4f165-945e-4cfb-83af-00808cc2935a;1973;Comedy,Crime,Drama;Paul Newman,Robert Redford,Robert Shaw;15;PT129M;8.3
+6aea11a3-ee8f-411a-ac40-79bb4dca2c33;1968;Adventure,Sci-Fi;Keir Dullea,Gary Lockwood,William Sylvester;11;PT149M;8.3
+4a061d85-b45c-44df-ab47-6bccb6c7334d;2005;Drama;Fikret Kuskan,Çetin Tekindor,Hümeyra;;PT108M;8.6
+2e851a6d-758d-4e2c-8609-812e62f0acfa;1952;Comedy,Musical,Romance;Gene Kelly,Donald O'Connor,Debbie Reynolds;Btl;PT103M;8.3
+f90a263d-2447-4a8a-8177-9c688b8ddd86;1995;Animation,Adventure,Comedy;Tom Hanks,Tim Allen,Don Rickles;7;PT81M;8.3
+22ca44c8-e480-43eb-a458-9d0e122f9b4f;1948;Drama;Lamberto Maggiorani,Enzo Staiola,Lianella Carell;Btl;PT89M;8.3
+7a04049d-d4a3-4b57-bd84-3c90dec1c3eb;1921;Comedy,Drama,Family;Charles Chaplin,Edna Purviance,Jackie Coogan;;PT68M;8.3
+c4bf0376-660b-4466-931c-14b538bf760b;2009;Adventure,Drama,War;Brad Pitt,Diane Kruger,Eli Roth;15;PT153M;8.3
+3a10b21b-5fb6-4812-a403-814848d6962e;2000;Comedy,Crime;Jason Statham,Brad Pitt,Benicio Del Toro;15;PT104M;8.3
+3f4538cd-af6f-42a3-9d34-093a47640237;1975;Adventure,Comedy,Fantasy;Graham Chapman,John Cleese,Eric Idle;15;PT91M;8.3
+c8085699-7545-47a9-ba5c-ed025b8029ab;2009;Comedy,Drama;Aamir Khan,Madhavan,Mona Singh;11;PT170M;8.4
+413d6ba7-a4b5-41c8-af13-059bec2eeeee;1997;Crime,Drama,Mystery;Kevin Spacey,Russell Crowe,Guy Pearce;15;PT138M;8.3
+25af0f07-3084-43d3-b724-e364669da40c;1965;Western;Clint Eastwood,Lee Van Cleef,Gian Maria Volontè;;PT132M;8.3
+f9f1dbbc-0a45-4c4d-89f2-ec48da8db484;1983;Crime,Drama;Al Pacino,Michelle Pfeiffer,Steven Bauer;15;PT170M;8.3
+c2c080c1-7a7f-46a2-bf39-28bd61759a40;2012;Drama;Mads Mikkelsen,Thomas Bo Larsen,Annika Wedderkopp;15;PT115M;8.3
+3cb0e66e-40a5-4143-ac7f-04f1ba153b99;1950;Crime,Drama,Mystery;Toshirô Mifune,Machiko Kyô,Masayuki Mori;;PT88M;8.3
+3a8d79fb-d37a-41c9-8890-67f67f6595a4;1960;Comedy,Drama,Romance;Jack Lemmon,Shirley MacLaine,Fred MacMurray;15;PT125M;8.3
+c507b92c-003d-4b96-8bb1-c5fe81550ce7;1997;Drama;Robin Williams,Matt Damon,Ben Affleck;11;PT126M;8.3
+dbb977ff-42ec-48c0-9474-3d7e4834b590;2011;Drama,Mystery;Peyman Moaadi,Leila Hatami,Sareh Bayat;15;PT123M;8.4
+726a71b7-4980-4c0c-aaf6-2632f67870b7;1989;Action,Adventure,Fantasy;Harrison Ford,Sean Connery,Alison Doody;15;PT127M;8.3
+b605c8ba-9b18-45ab-9270-a9eeebda4825;1927;Drama,Sci-Fi;Brigitte Helm,Alfred Abel,Gustav Fröhlich;15;PT153M;8.3
+ea13cc4e-dc8d-4970-abac-323fc1eddb1b;1950;Drama;Bette Davis,Anne Baxter,George Sanders;;PT138M;8.3
+a36d4e5d-aed3-4328-aa06-53e9319fcb41;1961;Action,Drama,Thriller;Toshirô Mifune,Eijirô Tôno,Tatsuya Nakadai;15;PT110M;8.3
+906fbf88-134e-452c-834e-1f36c032e37e;2005;Action,Adventure;Christian Bale,Michael Caine,Ken Watanabe;11;PT140M;8.3
+30be466e-a29d-4a34-9433-fa4df8ee90eb;2009;Animation,Adventure,Comedy;Edward Asner,Jordan Nagai,John Ratzenberger;7;PT96M;8.3
+113f0b9a-e2ab-4207-9795-a5d814f5a689;1959;Comedy,Romance;Marilyn Monroe,Tony Curtis,Jack Lemmon;15;PT120M;8.3
+c2c9d6c2-ed3e-400e-b375-062041c39843;1948;Adventure,Drama,Western;Humphrey Bogart,Walter Huston,Tim Holt;;PT126M;8.3
+2c9ed825-f92e-42af-8fc3-264cc3c4817a;1992;Drama,Western;Clint Eastwood,Gene Hackman,Morgan Freeman;15;PT131M;8.3
+7cbe719c-ee3c-4d6c-b11e-e8484752d8c3;2004;Biography,Drama,History;Bruno Ganz,Alexandra Maria Lara,Ulrich Matthes;15;PT156M;8.3
+bb9f6b9d-fe9e-47d0-ab75-fb58a809306d;1980;Biography,Drama,Sport;Robert De Niro,Cathy Moriarty,Joe Pesci;15;PT129M;8.2
+be27d51a-9a9e-457b-93d3-b28e2fa22428;1949;Film-Noir,Mystery,Thriller;Orson Welles,Joseph Cotten,Alida Valli;15;PT104M;8.3
+449d0976-14e5-49ec-808b-ee574613a1e7;1988;Action,Thriller;Bruce Willis,Alan Rickman,Bonnie Bedelia;15;PT131M;8.2
+8b871d26-c4c3-4400-82ae-710ec0701d32;1997;Drama,Family;Mohammad Amir Naji,Amir Farrokh Hashemian,Bahare Seddiqi;PG;PT89M;8.4
+78dbe3ac-867c-4898-8eed-ce3ad9705dbf;1995;Action,Crime,Drama;Al Pacino,Robert De Niro,Val Kilmer;15;PT170M;8.2
+f6616780-7d58-4df3-8e2f-66057de16a7c;1963;Adventure,Drama,History;Steve McQueen,James Garner,Richard Attenborough;15;PT172M;8.2
+7f12ed34-f085-4fa4-b350-795b7d1081e3;1974;Drama,Mystery,Thriller;Jack Nicholson,Faye Dunaway,John Huston;15;PT130M;8.2
+7ac3620d-aa88-4ecd-b07d-e80a6d1659a5;2006;Drama,Fantasy,War;Ivana Baquero,Ariadna Gil,Sergi López;15;PT118M;8.2
+7d6eac12-8852-45ec-93c4-eefd5a3633c8;2015;Animation,Adventure,Comedy;Amy Poehler,Bill Hader,Lewis Black;7;PT95M;8.2
+742c5fd4-9a1b-499e-b945-407b985fef23;1952;Drama;Takashi Shimura,Nobuo Kaneko,Shin'ichi Himori;11;PT143M;8.3
+fefac654-3d61-4ce8-99c8-9ecb7512fd0b;1988;Animation,Family,Fantasy;Hitoshi Takagi,Noriko Hidaka,Chika Sakamoto;Btl;PT86M;8.2
+6d4edc18-474f-439b-bdb2-160448dc758c;1954;Crime,Drama,Thriller;Marlon Brando,Karl Malden,Lee J. Cobb;15;PT108M;8.2
+8fe4e0b1-1acf-4252-addc-d38fb5244dc1;1985;Action,Drama;Tatsuya Nakadai,Akira Terao,Jinpachi Nezu;15;PT162M;8.2
+0048f3ba-f5a5-4e2a-9c59-3e3cd7dc4b3c;2015;Drama;Brie Larson,Jacob Tremblay,Sean Bridgers;15;PT118M;8.2
+73daf4c3-6438-4881-a6ec-00e676158456;1925;Adventure,Comedy,Drama;Charles Chaplin,Mack Swain,Tom Murray;;PT95M;8.2
+628d3a63-fe5d-4638-b960-5e8a9341f397;2016;Drama,History,War;Andrew Garfield,Sam Worthington,Luke Bracey;15;PT139M;8.3
+a34d66f7-2794-4d7e-8f37-ea4c16415a91;2009;Drama,Mystery,Thriller;Ricardo Darín,Soledad Villamil,Pablo Rago;15;PT129M;8.2
+0a749049-9405-4886-9d4c-3692bdf58487;1957;Adventure,Drama,War;William Holden,Alec Guinness,Jack Hawkins;15;PT161M;8.2
+d64f868c-34cb-4ade-82d0-aae08fdef4ce;1982;Sci-Fi,Thriller;Harrison Ford,Rutger Hauer,Sean Young;15;PT117M;8.2
+efe91156-0714-482b-9465-38ca415c6f7f;1939;Comedy,Drama;James Stewart,Jean Arthur,Claude Rains;Btl;PT129M;8.2
+f47eb7e8-55f9-45ac-b160-1923d6ee3f4e;2004;Animation,Adventure,Family;Chieko Baishô,Takuya Kimura,Tatsuya Gashûin;7;PT119M;8.2
+c95f66fd-1acb-4bc8-9587-35b285f8db82;1957;Drama,Fantasy;Max von Sydow,Gunnar Björnstrand,Bengt Ekerot;15;PT96M;8.2
+06f603d9-2e62-487a-b8e0-c7ee033bee27;1998;Comedy,Crime;Jason Flemyng,Dexter Fletcher,Nick Moran;15;PT107M;8.2
+f6fe080d-3fd3-4202-8a37-788c7d83837e;1961;Drama,War;Spencer Tracy,Burt Lancaster,Richard Widmark;15;PT186M;8.3
+7dd03ff1-f11e-41b4-bca6-5380e32ebb4b;1995;Biography,Crime,Drama;Robert De Niro,Sharon Stone,Joe Pesci;R;PT178M;8.2
+69bd2fd6-a22b-459e-8d06-d2bf068220cd;2010;Drama,Mystery,War;Lubna Azabal,Mélissa Désormeaux-Poulin,Maxim Gaudette;15;PT131M;8.2
+2da8f354-5f52-46fd-a724-16e61bd74051;2001;Biography,Drama;Russell Crowe,Ed Harris,Jennifer Connelly;11;PT135M;8.2
+38dcb448-c489-4331-b974-0dc8e38d9d57;1996;Crime,Drama,Thriller;Sener Sen,Ugur Yücel,Sermin Hürmeriç;;PT128M;8.5
+df0b779a-6c3b-46d7-97dc-e6490e162e90;1980;Biography,Drama;Anthony Hopkins,John Hurt,Anne Bancroft;15;PT124M;8.2
+0c91162f-e4e3-4406-8b42-9b7d1cf9bbc4;1957;Drama,Romance;Victor Sjöström,Bibi Andersson,Ingrid Thulin;15;PT91M;8.2
+76362c30-ba97-4ab0-8675-69cfca0f8272;1926;Action,Adventure,Comedy;Buster Keaton,Marion Mack,Glen Cavender;Btl;PT67M;8.2
+924296d2-7f55-424f-b72a-3084c99baba1;2005;Action,Drama,Thriller;Hugo Weaving,Natalie Portman,Rupert Graves;15;PT132M;8.2
+756f797e-82e6-48f9-87c0-7d6b3b1f839c;2011;Action,Drama,Sport;Tom Hardy,Nick Nolte,Joel Edgerton;15;PT140M;8.2
+a45da0fe-e3cd-48ef-9c31-7b0a7e014636;2013;Biography,Comedy,Crime;Leonardo DiCaprio,Jonah Hill,Margot Robbie;15;PT180M;8.2
+a4d5c498-a22f-4355-ac79-9888f676860e;2008;Crime,Drama,Mystery;Anupam Kher,Naseeruddin Shah,Jimmy Shergill;;PT104M;8.4
+3e7fa8c5-5e7c-48b2-9186-e589a58e98d4;1927;Drama,Romance;George O'Brien,Janet Gaynor,Margaret Livingston;15;PT94M;8.3
+d6aff0f5-59f0-4611-8c39-f4e99dc69a51;2008;Drama;Clint Eastwood,Bee Vang,Christopher Carley;15;PT116M;8.2
+adb79233-31b4-4af9-9b86-606866416d98;1996;Drama;Ewan McGregor,Ewen Bremner,Jonny Lee Miller;15;PT94M;8.2
+b7fe9782-970e-4fd9-8dee-99f39ae2624d;1928;Biography,Drama,History;Maria Falconetti,Eugene Silvain,André Berley;15;PT110M;8.3
+ff23a345-c829-4a55-a4b2-8920529bc9b0;2006;Comedy,Drama,History;Aamir Khan,Soha Ali Khan,Siddharth;;PT157M;8.3
+c4aee6cd-4146-4c6a-83ae-9d278daf22b1;1954;Crime,Film-Noir,Thriller;Ray Milland,Grace Kelly,Robert Cummings;;PT105M;8.2
+68d6d108-c699-46c5-b167-7f0d500c1e7e;1998;Comedy,Crime,Mystery;Jeff Bridges,John Goodman,Julianne Moore;15;PT117M;8.2
+3451509d-518b-4e8d-8364-680d605d80c3;1978;Drama,War;Robert De Niro,Christopher Walken,John Cazale;15;PT183M;8.2
+404817eb-8f5b-49c1-b672-0bd5c5812d72;1939;Drama,History,Romance;Clark Gable,Vivien Leigh,Thomas Mitchell;15;PT238M;8.2
+c570b465-39ed-4c59-877d-a67100f9065a;1996;Crime,Drama,Thriller;William H. Macy,Frances McDormand,Steve Buscemi;15;PT98M;8.1
+aab430e0-02a0-4472-acc0-90aae8f4ec6d;1953;Drama;Chishû Ryû,Chieko Higashiyama,Sô Yamamura;Btl;PT136M;8.3
+c7fd815e-541c-4743-8644-4def2c3e3333;2003;Animation,Adventure,Comedy;Albert Brooks,Ellen DeGeneres,Alexander Gould;7;PT100M;8.1
+1f3fd76c-2934-420b-908b-74cf0043568a;1999;Drama,Mystery,Thriller;Bruce Willis,Haley Joel Osment,Toni Collette;11;PT107M;8.1
+2ba4a191-79c2-41b1-b640-a2f0d3fa2928;1982;Horror,Mystery,Sci-Fi;Kurt Russell,Wilford Brimley,Keith David;15;PT109M;8.2
+4291ac76-3e8c-48d2-881e-15bf5203f465;1967;Crime,Drama;Paul Newman,George Kennedy,Strother Martin;15;PT126M;8.2
+5156049f-1c74-4bde-b088-490722b3e9ac;2007;Crime,Drama,Thriller;Tommy Lee Jones,Javier Bardem,Josh Brolin;15;PT122M;8.1
+ffefcd51-93d2-4d77-9f95-86a7b49aedd6;1940;Drama,Mystery,Romance;Laurence Olivier,Joan Fontaine,George Sanders;15;PT130M;8.2
+e059d9f6-8f79-4e15-9583-d9f07a8f51df;2010;Animation,Action,Adventure;Jay Baruchel,Gerard Butler,Christopher Mintz-Plasse;7;PT98M;8.2
+7a5bc81a-51a1-4855-b34b-68c829c64606;2003;Action,Crime,Thriller;Uma Thurman,David Carradine,Daryl Hannah;15;PT111M;8.1
+4b35860c-91a4-44a2-bbe7-8caeeb4b8118;2007;Adventure,Biography,Drama;Emile Hirsch,Vince Vaughn,Catherine Keener;7;PT148M;8.2
+de2c0887-8b1b-4547-a3f0-f25b96f51d3a;2009;Animation,Comedy,Drama;Toni Collette,Philip Seymour Hoffman,Eric Bana;11;PT92M;8.2
+805c182b-7ec0-4ba8-9579-e18555bdb678;2007;Drama,History;Daniel Day-Lewis,Paul Dano,Ciarán Hinds;15;PT158M;8.1
+4107a1d2-9bca-48b2-9b76-11d2e0fbe467;2014;Crime,Drama,Mystery;Ben Affleck,Rosamund Pike,Neil Patrick Harris;15;PT149M;8.1
+02e33449-c423-4efc-9282-acd2fec04152;2003;Comedy,Drama,Romance;Sunil Dutt,Sanjay Dutt,Arshad Warsi;;PT156M;8.3
+6b7e487b-5a7f-4ea2-a1a5-35f3b35c1ff6;1985;Drama,War;Aleksey Kravchenko,Olga Mironova,Liubomiras Laucevicius;15;PT142M;8.3
+7f0af2dd-b90c-4e4e-9e21-e4e529d23359;2000;Comedy,Crime,Thriller;Akshay Kumar,Paresh Rawal,Sunil Shetty;;PT156M;8.4
+a60c4b13-aea6-48cf-bd03-66362eb21b14;1934;Comedy,Romance;Clark Gable,Claudette Colbert,Walter Connolly;15;PT105M;8.2
+1200761c-483f-45df-a795-1920067afd41;1975;Action,Adventure,Comedy;Dharmendra,Sanjeev Kumar,Hema Malini;;PT198M;8.4
+aba9918a-4f82-48b4-a52d-949104d60987;1979;Comedy;Graham Chapman,John Cleese,Michael Palin;15;PT94M;8.1
+d2f91cb5-6eef-4757-9ede-09020efdd5a2;1994;Comedy,Family,Romance;Aamir Khan,Salman Khan,Raveena Tandon;;PT160M;8.4
+dc78818d-4615-4df2-837d-612705aca51c;2010;Mystery,Thriller;Leonardo DiCaprio,Emily Mortimer,Mark Ruffalo;15;PT138M;8.1
+8ad111ac-b81d-4ac9-9df2-6b37a812fbaa;1986;Drama,War;Charlie Sheen,Tom Berenger,Willem Dafoe;15;PT120M;8.1
+fdda9ab7-5883-4246-abf4-06289ba2cfa9;2004;Biography,Drama,History;Don Cheadle,Sophie Okonedo,Joaquin Phoenix;15;PT121M;8.1
+b0fe0496-c329-4e32-8052-af90f36da7da;2013;Action,Biography,Drama;Daniel Brühl,Chris Hemsworth,Olivia Wilde;15;PT123M;8.1
+6d4a1791-3a3f-4a67-8a41-81941287b720;1976;Drama;Faye Dunaway,William Holden,Peter Finch;15;PT121M;8.1
+e92506e7-2672-4ea9-b427-a1b9e40d51a4;1953;Adventure,Drama,Thriller;Yves Montand,Charles Vanel,Peter van Eyck;15;PT131M;8.2
+7622c701-b3b5-48a3-9009-0e5be3980a54;2014;Comedy,Drama,Thriller;Darío Grandinetti,María Marull,Mónica Villa;15;PT122M;8.1
+a6642b58-f385-4262-894d-cd33b2a3f58a;1986;Adventure,Drama;Wil Wheaton,River Phoenix,Corey Feldman;11;PT89M;8.1
+8265fb58-853c-4498-b005-6e148d30edb8;1993;Biography,Drama;Daniel Day-Lewis,Pete Postlethwaite,Alison Crosbie;15;PT133M;8.1
+94e4c3bc-f1d1-4d59-a5a9-b5453bb48ce0;2015;Crime,Drama,History;Mark Ruffalo,Michael Keaton,Rachel McAdams;7;PT128M;8.1
+771af57a-0195-440f-9f01-ff90d54b3d19;1959;Crime,Drama;Jean-Pierre Léaud,Albert Rémy,Claire Maurier;15;PT99M;8.1
+1a3ced5e-4a52-4745-b0c4-86c87074f388;2015;Action,Adventure,Sci-Fi;Tom Hardy,Charlize Theron,Nicholas Hoult;15;PT120M;8.1
+6a15cb0d-44f4-4e0e-8476-ea0a9f327ce4;1969;Biography,Crime,Drama;Paul Newman,Robert Redford,Katharine Ross;11;PT110M;8.1
+b5b8dd4c-b28c-4da8-a25a-e95143a73f95;2013;Biography,Drama,History;Chiwetel Ejiofor,Michael Kenneth Williams,Michael Fassbender;15;PT134M;8.1
+faeeaae5-b3a2-4c24-af67-ead561d06c3b;2014;Adventure,Comedy,Drama;Ralph Fiennes,F. Murray Abraham,Mathieu Amalric;11;PT99M;8.1
+49fc16c3-dcc8-4fa3-98b9-8bfdf5106dc0;1959;Adventure,Drama,History;Charlton Heston,Jack Hawkins,Stephen Boyd;15;PT212M;8.1
+02eec58d-b090-4ad8-bc91-bbc2102201d7;1941;Crime,Film-Noir,Mystery;Humphrey Bogart,Mary Astor,Gladys George;15;PT100M;8.1
+211a7658-d615-4b9b-8469-b5653ba38a82;2015;Action,Adventure,Fantasy;Daisy Ridley,John Boyega,Oscar Isaac;11;PT136M;8.1
+97c41f9a-12d1-45ce-acc9-be7772fb09fe;1957;Drama;Giulietta Masina,François Périer,Franca Marzi;15;PT110M;8.2
+beb96094-032d-4e78-861b-2904703e834e;1966;Drama,Thriller;Bibi Andersson,Liv Ullmann,Margaretha Krook;15;PT85M;8.1
+0030ade7-e17c-49f1-95f0-b0243fb9a2bb;2004;Drama,Sport;Hilary Swank,Clint Eastwood,Morgan Freeman;11;PT132M;8.1
+1c9eb5fc-4b47-4c9c-80a1-774c023af7a1;2000;Drama,Thriller;Emilio Echevarría,Gael García Bernal,Goya Toledo;15;PT154M;8.1
+720dbf04-82e9-418f-a1e1-ea1855f4157d;1993;Adventure,Sci-Fi,Thriller;Sam Neill,Laura Dern,Jeff Goldblum;11;PT127M;8.1
+888e15c0-4e2a-4557-877c-b46df648a97b;1987;Adventure,Family,Fantasy;Cary Elwes,Mandy Patinkin,Robin Wright;11;PT98M;8.1
+46d8e4af-626c-4b31-85ca-d0058219ddab;2003;Crime,Drama,Mystery;Kang-ho Song,Sang-kyung Kim,Roe-ha Kim;15;PT131M;8.1
+b4f4544c-9483-40b1-abd7-b149f1f85412;2009;Drama,Family;Richard Gere,Joan Allen,Cary-Hiroyuki Tagawa;Btl;PT93M;8.1
+8b68c2c6-3018-40cf-932b-05dba8a7becf;1979;Drama,Sci-Fi;Alisa Freyndlikh,Aleksandr Kaydanovskiy,Anatoliy Solonitsyn;15;PT163M;8.1
+70b0944f-3f05-4c78-8acd-ed7d5ea561c3;1984;Animation,Adventure,Fantasy;Sumi Shimamoto,Mahito Tsujimura,Hisako Kyôda;11;PT117M;8.1
+ddc4e352-4784-455a-a932-d6c64309f76b;1998;Comedy,Drama,Sci-Fi;Jim Carrey,Ed Harris,Laura Linney;11;PT103M;8.1
+e9830108-cd8c-464d-8a63-9fc9ebe32f91;1995;Drama,Romance;Ethan Hawke,Julie Delpy,Andrea Eckert;Btl;PT101M;8.1
+9a9c7a29-f474-4eee-bfff-3304dc82718c;1940;Drama,History;Henry Fonda,Jane Darwell,John Carradine;15;PT129M;8.1
+7a273e94-a41d-4ae8-98f2-ce05ab3bd324;1958;Crime,Drama,Film-Noir;Charlton Heston,Orson Welles,Janet Leigh;15;PT95M;8.1
+496cb97b-1ec9-48d7-91b1-d2be10a8e7f4;1977;Comedy,Romance;Woody Allen,Diane Keaton,Tony Roberts;11;PT93M;8.1
+f3624a40-b865-43f7-83a5-9f86371ccf38;1976;Drama,Sport;Sylvester Stallone,Talia Shire,Burt Young;15;PT120M;8.1
+53294e5d-56d9-4999-9826-1f8039c1b9f9;2011;Adventure,Drama,Fantasy;Daniel Radcliffe,Emma Watson,Rupert Grint;11;PT130M;8.1
+e4d667e0-3c33-4c60-9bc0-15b226e5e38b;1982;Biography,Drama,History;Ben Kingsley,John Gielgud,Candice Bergen;11;PT191M;8.1
+7773c7fd-a3b1-48a9-9892-b57e12d0f47d;2015;Crime,Drama,Mystery;Ajay Devgn,Shriya Saran,Tabu;;PT163M;8.5
+d71749da-8073-4258-b1c4-02ccae0fbb80;1955;Crime,Drama,Horror;Simone Signoret,Véra Clouzot,Paul Meurisse;15;PT117M;8.1
+9e02c94e-5394-4b22-bd78-ed392b32f622;2007;Action,Mystery,Thriller;Matt Damon,Edgar Ramírez,Joan Allen;11;PT115M;8.1
+22ae2fb6-dee1-46c5-9989-e5113d92df3f;2001;Drama,Sci-Fi,Thriller;Jake Gyllenhaal,Jena Malone,Mary McDonnell;15;PT113M;8.1
+619ed4fe-8c57-427b-82aa-eb347ce38e1d;2013;Crime,Drama,Mystery;Hugh Jackman,Jake Gyllenhaal,Viola Davis;15;PT153M;8.1
+f7f17464-8337-48f1-9608-1f7ee9476181;2001;Animation,Adventure,Comedy;Billy Crystal,John Goodman,Mary Gibbs;7;PT92M;8.1
+73c3fe0a-815e-4783-a185-2b66b02a6b63;1963;Drama,Fantasy;Marcello Mastroianni,Anouk Aimée,Claudia Cardinale;15;PT138M;8.1
+df3d5978-e19b-4cb8-af7b-283f462d4bd1;1984;Action,Sci-Fi;Arnold Schwarzenegger,Linda Hamilton,Michael Biehn;15;PT107M;8
+2ab830c0-f3b2-48a6-8fc7-a8c062dbcd94;2002;Biography,Crime,Drama;Leonardo DiCaprio,Tom Hanks,Christopher Walken;7;PT141M;8
+f3660dd0-d4dc-4be5-9f79-17bce324db6e;1939;Adventure,Family,Fantasy;Judy Garland,Frank Morgan,Ray Bolger;7;PT102M;8.1
+0b661a33-2ec7-417f-9d7b-b67c4f7b2202;1976;Adventure,Biography,Drama;Anthony Quinn,Irene Papas,Michael Ansara;15;PT177M;8.3
+c8e02b81-ea57-4744-aa66-042e4a43169a;1993;Comedy,Fantasy,Romance;Bill Murray,Andie MacDowell,Chris Elliott;7;PT101M;8
+09789c67-1553-493e-8c55-f0ac17b2d243;2016;Drama,Mystery,Sci-Fi;Amy Adams,Jeremy Renner,Forest Whitaker;11;PT116M;8.1
+96692ed3-5107-40ec-9871-07a91b6b761e;2017;Action,Crime,Thriller;Keanu Reeves,Riccardo Scamarcio,Ian McShane;R;PT122M;8.2
+24b48631-288d-4d69-80fa-4a207875b696;1995;Mystery,Sci-Fi,Thriller;Bruce Willis,Madeleine Stowe,Brad Pitt;15;PT129M;8
+c2bf40a9-a092-490e-a8c3-6d302a924456;1995;Crime,Drama;Vincent Cassel,Hubert Koundé,Saïd Taghmaoui;15;PT98M;8.1
+ab50a063-a8b1-48c4-9114-e19bea4fb8d3;1975;Adventure,Drama,History;Ryan O'Neal,Marisa Berenson,Patrick Magee;15;PT184M;8.1
+f19d52e2-ff22-4158-8e65-10e671633d09;1975;Adventure,Drama,Thriller;Roy Scheider,Robert Shaw,Richard Dreyfuss;15;PT124M;8
+4af748e0-aee4-4e8f-9ac6-3836cb8ba1c4;2002;Crime,Drama,Mystery;Andy Lau,Tony Leung Chiu-Wai,Anthony Chau-Sang Wong;15;PT101M;8.1
+1b349c02-3db6-4058-aa28-4c0b3267063c;2016;Animation,Adventure,Comedy;Ginnifer Goodwin,Jason Bateman,Idris Elba;7;PT108M;8.1
+01d99061-8136-4633-a8a9-e477f964e7c3;1946;Drama,Romance,War;Fredric March,Dana Andrews,Myrna Loy;;PT172M;8.1
+7c10cc4c-a91b-44aa-89c1-ddab71001931;1966;Drama,War;Brahim Hadjadj,Jean Martin,Yacef Saadi;15;PT121M;8.1
+95aeed3e-aefb-41e9-89ba-bc339ac6b57b;1975;Biography,Crime,Drama;Al Pacino,John Cazale,Penelope Allen;15;PT125M;8
+a39133cf-ba60-40c3-b9d0-d3f331b8ffda;1951;Crime,Film-Noir,Thriller;Farley Granger,Robert Walker,Ruth Roman;PG;PT101M;8.1
+cefd2e44-a664-436a-8b59-52bce91dbe15;2011;Drama;Emma Stone,Viola Davis,Octavia Spencer;7;PT146M;8.1
+ae4dcfb5-dc47-4421-95be-6cabb1223140;2012;Action,Crime,Drama;Manoj Bajpayee,Richa Chadha,Nawazuddin Siddiqui;;PT320M;8.3
+b721403d-2ce7-4090-b2e1-c1dc89b110f3;2005;Crime,Thriller;Mickey Rourke,Clive Owen,Bruce Willis;15;PT124M;8
+6fe1d8b5-c784-451d-ac4b-fc33a11a24de;2003;Action,Adventure,Fantasy;Johnny Depp,Geoffrey Rush,Orlando Bloom;11;PT143M;8
+9a575384-ee3c-4649-94ee-83a5529786a9;2014;Comedy,Drama,Romance;Aamir Khan,Anushka Sharma,Sanjay Dutt;;PT153M;8.2
+ada680af-9fb1-46bc-8feb-793f77cbf163;2014;Biography,Drama,Thriller;Benedict Cumberbatch,Keira Knightley,Matthew Goode;11;PT114M;8.1
